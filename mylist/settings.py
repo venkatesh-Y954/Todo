@@ -25,7 +25,7 @@ SECRET_KEY = '8je9u@!0ia^qvkt12bbqokv8u2n0qiwah4_sa2&y^gtw-i$g$b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vtodo.pythonanywhere.com']
 
 #TAMPLATE_DIRS = ('C:\Users\DELL\OneDrive\Desktop\Todo\todolist\templets',)
 
